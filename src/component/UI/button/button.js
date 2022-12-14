@@ -4,7 +4,7 @@ export default function Button() {
         <div>
             <button
                 style={{
-                    backgroundImage: "url('../../img/icoHome.png')",
+                    backgroundImage: "url('../../img/')",
                 }}
             >
             </button>

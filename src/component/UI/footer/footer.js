@@ -13,8 +13,10 @@ export default function Footer() {
                 
                 <button
                     style={{
-                        width: "144px",
-                        height: "144px",
+                        maxWidth: "144px",
+                        minWidth: "55px",
+                        maxHeight: "144px",
+                        minHeight: "55px",
                     }}
                 >
                     home
@@ -22,8 +24,10 @@ export default function Footer() {
 
                 <button
                     style={{
-                        width: "144px",
-                        height: "144px",
+                        maxWidth: "144px",
+                        minWidth: "55px",
+                        maxHeight: "144px",
+                        minHeight: "55px",
                     }}
                 >
                     search
@@ -31,8 +35,10 @@ export default function Footer() {
 
                 <button
                     style={{
-                        width: "233px",
-                        height: "233px",
+                        maxWidth: "233px",
+                        minWidth: "89px",
+                        maxHeight: "233px",
+                        minHeight: "89px",
                         borderRadius: "100%",
                     }}
                 >
@@ -42,8 +48,10 @@ export default function Footer() {
 
                 <button
                     style={{
-                        width: "144px",
-                        height: "144px",
+                        maxWidth: "144px",
+                        minWidth: "55px",
+                        maxHeight: "144px",
+                        minHeight: "55px",
                     }}
                 >
                     bookMark
@@ -51,8 +59,10 @@ export default function Footer() {
                 
                 <button
                     style={{
-                        width: "144px",
-                        height: "144px",
+                        maxWidth: "144px",
+                        minWidth: "55px",
+                        maxHeight: "144px",
+                        minHeight: "55px",
                     }}
                 >
                     Setings
